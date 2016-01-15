@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Scope","The structure passed to every action handler"]]});
